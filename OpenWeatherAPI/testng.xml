@@ -9,7 +9,7 @@
 	</listeners>
   <test thread-count="5" name="APITests">
     <classes>
-      <class name="api.test.weatherTests2"/>
+      <class name="api.test.weatherTests"/>
     </classes>
   </test> <!-- APITests -->
 </suite> <!-- APISuite -->
